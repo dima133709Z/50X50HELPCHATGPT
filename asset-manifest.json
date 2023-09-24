@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/50X50HELPCHATGPT/static/css/main.0e8e1226.css",
+    "main.js": "/50X50HELPCHATGPT/static/js/main.98783d59.js",
+    "index.html": "/50X50HELPCHATGPT/index.html",
+    "main.0e8e1226.css.map": "/50X50HELPCHATGPT/static/css/main.0e8e1226.css.map",
+    "main.98783d59.js.map": "/50X50HELPCHATGPT/static/js/main.98783d59.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0e8e1226.css",
+    "static/js/main.98783d59.js"
+  ]
+}
